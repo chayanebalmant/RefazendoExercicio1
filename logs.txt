@@ -1,0 +1,5 @@
+commit 24bb5da7f64dc53a636522f5c5393a89aa590468 (HEAD -> master)
+Author: Chayane Balmant <chaybalmant@gmail.com>
+Date:   Wed Mar 13 04:55:31 2019 -0300
+
+    Primeira alteracao em status.txt
