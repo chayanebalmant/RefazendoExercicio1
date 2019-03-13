@@ -3,3 +3,29 @@ Author: Chayane Balmant <chaybalmant@gmail.com>
 Date:   Wed Mar 13 04:55:31 2019 -0300
 
     Primeira alteracao em status.txt
+
+
+**NOVOS LOGS**
+commit 597e01e7564318873a59496d22eaa26fd1f07738 (HEAD -> master, origin/master)
+Author: chayanebalmant <48491083+chayanebalmant@users.noreply.github.com>
+Date:   Wed Mar 13 03:17:49 2019 -0300
+
+    Create README.md
+
+commit e28c40cee925648ee865e8ca3a2b30d5d33f87bc
+Author: Chayane Balmant <chaybalmant@gmail.com>
+Date:   Wed Mar 13 05:02:42 2019 -0300
+
+    Segunda alteracao em status.txt Primeira alteracao em logs.txt
+
+commit c6e5b397c6f05302efc847bc6f79f8adb4e38b42
+Author: Chayane Balmant <chaybalmant@gmail.com>
+Date:   Wed Mar 13 05:00:27 2019 -0300
+
+    Segunda alteracao em status.txt Primeira alteracao em logs.txt
+
+commit 24bb5da7f64dc53a636522f5c5393a89aa590468
+Author: Chayane Balmant <chaybalmant@gmail.com>
+Date:   Wed Mar 13 04:55:31 2019 -0300
+
+    Primeira alteracao em status.txt
